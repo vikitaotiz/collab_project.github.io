@@ -13,7 +13,12 @@ body{
 ul {
     margin-left: 1%;
 }
-.wrapper{
+
+h3{
+  text-align: center;
+}
+
+#main-doc{
     margin-top: 7%;
 }
 .sidenav {
